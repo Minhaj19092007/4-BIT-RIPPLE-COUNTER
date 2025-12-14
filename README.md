@@ -64,7 +64,9 @@ module ripple_counter(
             end
         end
     endgenerate
-endmodule
+    endmodule
+
+
 RTL LOGIC FOR 4 Bit Ripple Counter
 
 [rtl.pdf](https://github.com/user-attachments/files/24151877/rtl.pdf)
